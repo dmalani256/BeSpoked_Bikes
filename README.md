@@ -35,6 +35,8 @@ MySQL
 
 ![image](https://user-images.githubusercontent.com/79331977/200155475-66df595d-c40f-422d-8561-d9b3f8ebfeb2.png)
 
+(Some features may not work due to time constraints)
+
 
 
 
